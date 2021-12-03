@@ -478,12 +478,12 @@ section {
 }
 
 .resume-btn{
-  width: 200px;
+  width: 170px;
   background-color: #149DDD;
   padding: .6rem;
   font-size: 1rem;
   border: 0;
-  padding: 10px 24px;
+  padding: 10px 20px;
   transition: 0.4s;
   border-radius: 4px;
   color: #fff;
@@ -521,7 +521,13 @@ section {
     font-size: .8rem;
   }
   .project-row{
-   padding: 0;
+   padding: 0;  
+  }
+  .contact .info{
+    padding: 20px;
+  }
+  .contact .php-email-form {
+   padding: 20px;
   }
 }
 
